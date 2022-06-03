@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Daniel Gomes
 
+![image](https://user-images.githubusercontent.com/76263577/171926052-8a271ebb-45e1-44d5-bb7a-2b50edd156fa.png)
+
+
 <!--
 **dcgo15/dcgo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
