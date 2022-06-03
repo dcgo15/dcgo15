@@ -8,9 +8,9 @@
 💻&nbsp; A Python programmer/
 
 ### ► Trivia
-&nbsp; like cars/
-&nbsp; like memes/
-&nbsp; I want to visit the USA one day/
+🚗&nbsp; Like cars/
+😃&nbsp; Like memes/
+🇺🇸&nbsp; I want to visit the USA one day/
 
 ### ► Tech stack
 
