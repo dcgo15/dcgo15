@@ -3,14 +3,14 @@
 ![image](https://user-images.githubusercontent.com/76263577/171926052-8a271ebb-45e1-44d5-bb7a-2b50edd156fa.png)
 
 ### ► About Me
--This is me, Daniel/
--I'm 16 years old/
--A Python programmer/
+&nbsp; This is me, Daniel/
+&nbsp;I'm 16 years old/
+&nbsp; A Python programmer/
 
 ### ► Trivia
--like cars/
--like memes/
--I want to visit the USA one day/
+&nbsp; like cars/
+&nbsp; like memes/
+&nbsp; I want to visit the USA one day/
 
 ### ► Tech stack
 
