@@ -24,6 +24,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+  ![Snake animation](https://github.com/dcgo15/dcgo15/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **dcgo15/dcgo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
