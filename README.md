@@ -1,7 +1,4 @@
 ### Hi there 👋 I'm Daniel Gomes
-
-![image](https://user-images.githubusercontent.com/76263577/171926052-8a271ebb-45e1-44d5-bb7a-2b50edd156fa.png)
-
 ### ► About Me
 🌱&nbsp; This is me, Daniel  
 ⚡&nbsp; I'm 16 years old  
