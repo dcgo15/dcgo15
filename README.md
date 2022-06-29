@@ -6,9 +6,7 @@
 
 ### ► Trivia
 🚗&nbsp; Like cars  
-😃&nbsp; Like memes  
-🇺🇸&nbsp; I want to visit the USA one day  
-🔭&nbsp; I’m currently working on Bole+
+😃&nbsp; Like memes
  
 ### ► Tech stack
 
