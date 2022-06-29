@@ -5,7 +5,7 @@
 💻&nbsp; A Python programmer  
 
 ### ► Trivia
-🚗&nbsp; Like cars  
+🚗&nbsp; I Like cars  
 😃&nbsp; Like memes
  
 ### ► Tech stack
